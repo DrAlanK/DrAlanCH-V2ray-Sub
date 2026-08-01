@@ -10,6 +10,8 @@ vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2058?security=none&ty
 vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2060?security=none&type=ws&headerType=&path=%2Fgb&host=#🇬🇧 T.me/DrAlanCH 5
 vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2062?security=none&type=ws&headerType=&path=%2Ffi&host=#🇫🇮 T.me/DrAlanCH 6
 vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2064?security=none&type=ws&headerType=&path=%2Fde&host=#🇩🇪 T.me/DrAlanCH 7
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:8080?security=none&type=ws&headerType=&path=%2Fv-ws&host=tr.cdn.doctor-alan.ir#🇹🇷 T.me/DrAlanCH 8
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.cdn.doctor-alan.ir#🇹🇷 T.me/DrAlanCH 9
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@dl.nl.cdn.doctor-alan.ir:8880?security=none&type=xhttp&headerType=&path=%2Fv-xhttp&host=nl-cdn.doctor-alan-cloud.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#🇳🇱 T.me/DrAlanCH 10
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2066?security=none&type=ws&headerType=&path=%2Fau&host=#🇦🇺 T.me/DrAlanCH 8
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2068?security=none&type=ws&headerType=&path=%2Fauto&host=#🌐 T.me/DrAlanCH 9 (Auto)
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:8080?security=none&type=ws&headerType=&path=%2Fv-ws&host=tr.cdn.doctor-alan.ir#🇹🇷 T.me/DrAlanCH 10
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.cdn.doctor-alan.ir#🇹🇷 T.me/DrAlanCH 11
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@dl.nl.cdn.doctor-alan.ir:8880?security=none&type=xhttp&headerType=&path=%2Fv-xhttp&host=nl-cdn.doctor-alan-cloud.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#🇳🇱 T.me/DrAlanCH 12
