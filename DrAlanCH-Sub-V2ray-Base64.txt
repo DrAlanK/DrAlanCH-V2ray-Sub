@@ -2,16 +2,5 @@
 // t.me/DrAlanCH
 
 vmess://eyJhZGQiOiIxLjIuMy41IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxYTM4ZjkyLTU3NjEtNGNjOC1hYjVjLWIxMzkxY2E3ZDZkNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLimqEg8J2Xo/Cdl7zwnZiE8J2Xv/Cdl7LwnZexIPCdl5XwnZiGIDog8J2Xpy7wnZe68J2Xsi/wnZeX8J2Xv/Cdl5TwnZe58J2XrvCdl7vwnZeW8J2XmyDimqEiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxLjIuMy41IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxYTM4ZjkyLTU3NjEtNGNjOC1hYjVjLWIxMzkxY2E3ZDZkNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLimqEg2YXZhtin2LPYqCDZh9mI2LQg2YXYtdmG2YjYuduMINmH2Kcg4pqhIiwic2N5IjoiY2hhY2hhMjAtcG9seTEzMDUiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.direct.doctor-alan-cloud.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=yahoo.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=#🇹🇷 T.me/DrAlanCH 1
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:443?security=reality&type=tcp&headerType=&path=&host=dl.nl.cdn.doctor-alan.ir&sni=dl.nl.cdn.doctor-alan.ir&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=#🇳🇱 T.me/DrAlanCH 2
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@158.94.216.196:2056?security=none&type=ws&headerType=&path=%2Fwarp&host=#🇹🇷 T.me/DrAlanCH 3
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2058?security=none&type=ws&headerType=&path=%2Fus&host=#🇺🇸 T.me/DrAlanCH 4
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2060?security=none&type=ws&headerType=&path=%2Fgb&host=#🇬🇧 T.me/DrAlanCH 5
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2062?security=none&type=ws&headerType=&path=%2Ffi&host=#🇫🇮 T.me/DrAlanCH 6
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2064?security=none&type=ws&headerType=&path=%2Fde&host=#🇩🇪 T.me/DrAlanCH 7
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2066?security=none&type=ws&headerType=&path=%2Fau&host=#🇦🇺 T.me/DrAlanCH 8
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@147.90.59.180:2068?security=none&type=ws&headerType=&path=%2Fauto&host=#🌐 T.me/DrAlanCH 9 (Auto)
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:8080?security=none&type=ws&headerType=&path=%2Fv-ws&host=tr.cdn.doctor-alan.ir#🇹🇷 T.me/DrAlanCH 10
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.cdn.doctor-alan.ir#🇹🇷 T.me/DrAlanCH 11
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@dl.nl.cdn.doctor-alan.ir:8880?security=none&type=xhttp&headerType=&path=%2Fv-xhttp&host=nl-cdn.doctor-alan-cloud.ir&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A+1000000%2C+%22scMaxConcurrentPosts%22%3A+100%2C+%22scMinPostsIntervalMs%22%3A+30%2C+%22xPaddingBytes%22%3A+%22100-1000%22%2C+%22noGRPCHeader%22%3A+false%7D#🇳🇱 T.me/DrAlanCH 12
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.direct.doctor-alan-cloud.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.apple.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%202
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:8080?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.cdn.doctor-alan.ir#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%202%20%28AI%29
