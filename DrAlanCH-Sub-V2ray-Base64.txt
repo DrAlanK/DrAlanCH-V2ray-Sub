@@ -2,5 +2,5 @@
 // t.me/DrAlanCH
 
 vmess://eyJhZGQiOiIxLjIuMy41IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxYTM4ZjkyLTU3NjEtNGNjOC1hYjVjLWIxMzkxY2E3ZDZkNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLimqEg8J2Xo/Cdl7zwnZiE8J2Xv/Cdl7LwnZexIPCdl5XwnZiGIDog8J2Xpy7wnZe68J2Xsi/wnZeX8J2Xv/Cdl5TwnZe58J2XrvCdl7vwnZeW8J2XmyDimqEiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.direct.doctor-alan-cloud.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.apple.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%202
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.direct.doctor-alan-cloud.ir:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.apple.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%201
 vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:8080?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.cdn.doctor-alan.ir#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%202%20%28AI%29
