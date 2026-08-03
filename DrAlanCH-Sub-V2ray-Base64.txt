@@ -2,7 +2,11 @@
 // t.me/DrAlanCH
 
 vmess://eyJhZGQiOiIxLjIuMy41IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjMxYTM4ZjkyLTU3NjEtNGNjOC1hYjVjLWIxMzkxY2E3ZDZkNiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiLimqEg8J2Xo/Cdl7zwnZiE8J2Xv/Cdl7LwnZexIPCdl5XwnZiGIDog8J2Xpy7wnZe68J2Xsi/wnZeX8J2Xv/Cdl5TwnZe58J2XrvCdl7vwnZeW8J2XmyDimqEiLCJzY3kiOiJjaGFjaGEyMC1wb2x5MTMwNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@158.94.216.196:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.apple.com&fp=chrome&pbk=_f428-GcNlC9jcBQrpPnZ-d1aZwV4JJzOZkdDDVbWiU&sid=#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%201
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:8080?security=none&type=httpupgrade&headerType=&path=%2Fv-hu&host=tr.web.doctor-alan-cloud.ir#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%202
-trojan://3IUt0dKLQsjjCt3n0hg7wg@158.94.216.196:8081?security=none&type=httpupgrade&headerType=&path=%2Ft-hu&host=tr.web.doctor-alan-cloud.ir#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%203
-vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.web.doctor-alan-cloud.ir:8880?security=none&type=ws&headerType=&path=%2Fv-ws&host=tr.cdn.doctor-alan.ir#%F0%9F%87%B9%F0%9F%87%B7%20T.me/DrAlanCH%204
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@nl.doctor-alan.ir:2052?security=none&type=ws&headerType=&path=%2Fvless-ws&host=dl.nl.cdn.doctor-alan.ir#T.me/DrAlanCH%201%20%F0%9F%87%B3%F0%9F%87%B1
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2052?security=none&type=ws&headerType=&path=%2Fvless-ws&host=tr.cdn.doctor-alan.ir#T.me/DrAlanCH%202%20%F0%9F%87%B9%F0%9F%87%B7
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@nl.doctor-alan.ir:2082?security=none&type=grpc&headerType=&serviceName=vless-grpc&authority=dl.nl.cdn.doctor-alan.ir&mode=gun#T.me/DrAlanCH%203%20%F0%9F%87%B3%F0%9F%87%B1
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.cdn.doctor-alan.ir:2082?security=none&type=grpc&headerType=&serviceName=vless-grpc&authority=tr.cdn.doctor-alan.ir&mode=gun#T.me/DrAlanCH%204%20%F0%9F%87%B9%F0%9F%87%B7
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@dl.nl.cdn.doctor-alan.ir:8880?security=none&type=httpupgrade&headerType=&path=%2Fvless-httpup&host=#T.me/DrAlanCH%205%20%F0%9F%87%B3%F0%9F%87%B1
+vless://312eed52-b74a-41d7-a399-62efdc8f0122@tr.web.doctor-alan-cloud.ir:8880?security=none&type=httpupgrade&headerType=&path=%2Fvless-httpup&host=tr.cdn.doctor-alan.ir#T.me/DrAlanCH%206%20%F0%9F%87%B9%F0%9F%87%B7
+trojan://3IUt0dKLQsjjCt3n0hg7wg@tr.web.doctor-alan-cloud.ir:2086?security=none&type=ws&headerType=&path=%2Ftrojan-ws&host=tr.cdn.doctor-alan.ir#T.me/DrAlanCH%207%20%F0%9F%87%B9%F0%9F%87%B7
+trojan://3IUt0dKLQsjjCt3n0hg7wg@tr.web.doctor-alan-cloud.ir:2095?security=none&type=grpc&headerType=&serviceName=trojan-grpc&authority=tr.cdn.doctor-alan.ir&mode=gun#T.me/DrAlanCH%208%20%F0%9F%87%B9%F0%9F%87%B7
